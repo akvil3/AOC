@@ -1,3 +1,6 @@
-campcleanup.dSYM
+*.dSYM
 camp_cleanup.txt
+resources
 campcleanup
+ropebridge
+*.out
