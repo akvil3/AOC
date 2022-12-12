@@ -3,7 +3,7 @@ library(dplyr)
 
 # Replace empty fields in txt file with [X] and check that there is only
 # one space between each container
-stacks_data <- read.delim2("R/supply_stacks.txt", header = FALSE, sep = " ")
+stacks_data <- read.delim2("R/resources/supply_stacks.txt", header = FALSE, sep = " ")
 # The line where the first action is described
 num_actions <- 0
 
