@@ -1,2 +1,3 @@
 AOC.xcodeproj
+*/*.xcplayground
 .DS_Store
